@@ -1,0 +1,19 @@
+body {
+	color: #000000;  
+	background-color: #68fcfa;
+	background-position: center;
+	font-family: Trajan Pro,serif,Times New Roman;
+	line-height: 1.4em;
+	margin: 10px;
+}
+.table1 {
+    font-family: sans-serif;
+    color: #021952;
+    border-collapse: collapse;
+}
+ 
+.table1, th, td {
+	color: #000000;
+    border: 1px solid #999;
+    padding: 10px 20px;
+}
